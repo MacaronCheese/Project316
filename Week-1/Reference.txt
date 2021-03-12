@@ -1,0 +1,13 @@
+*Install Ubuntu Dual Windows:
+https://www.youtube.com/watch?v=u5QyjHIYwTQ
+*Install Python:
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/
+*Install OpenCV in Ubuntu:
+https://aicurious.io/posts/2018-09-14-cai-dat-opencv-tren-ubuntu-18-04/?fbclid=IwAR2hWf5_ax-LlbAniKhtXTkLnanD98wTZiY_UANpFIEnazjlx73Lktk4qBI
+*Install VLC for watch Video
+https://itstillworks.com/play-avi-linux-6881006.html
+*Remove Ubuntu from Dual Boot: :))
+https://www.youtube.com/watch?v=7GRUsnVNLNg
+*Install Vivado for Ubuntu:
+https://www.youtube.com/watch?v=IpKU8jZmC3c
+https://www.youtube.com/watch?v=sx0S9ZJIs6U
